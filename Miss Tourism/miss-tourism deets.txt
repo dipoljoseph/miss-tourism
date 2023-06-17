@@ -1,0 +1,18 @@
+db: misstourism
+user: misstourism
+pass: password
+
+user: joseph
+pass: password
+
+Miss Tourism
+Fonts:
+Roboto
+Open Sans
+Oswald
+
+Color Palettes:
+#095380
+#EABE5F
+#707070
+#D5D5D5
